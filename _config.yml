@@ -1,0 +1,14 @@
+title: Security Playbooks & Templates
+description: Incident response playbooks, security policies, board-report and AI-governance templates, and tabletop exercises from a practicing CISO.
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+  - jekyll-remote-theme
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - playbooks
+  - templates
+  - tabletops
+show_downloads: false
